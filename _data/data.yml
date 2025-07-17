@@ -80,21 +80,16 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Business Analyst
+    time: Jan 2024 - Present
+    company: Silverlake Digital INX Sdn Bhd
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      - Assist to gather requirement by identifying user needs and recommend solution to client.
+      - Develop Functional Specification Document, test scripts, user guide for solutions
+      - Actively perform application testing to confirm system function according to requirements
+      - Act as a liaison between development team and stakeholder throughout the implementation
+      - Analyzing. developing and proposing enhancements to current business processes, reports and application in order to optimize system effectiveness.
+      - Continuously improved application system by analyzing user feedback and implementing design enhancement to ensure more intuitive and user-friendly interface.
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
