@@ -38,17 +38,17 @@ sidebar:
     title: Languages
     info:
     - idiom: English
-      level: Bahasa Malaysia
+      level: Reading, writing
+
+    - idiom: Bahasa Malaysia
+      level: Reading, writing
 
   interests:
     title: Interests
     info:
     - item: Gardening
       link:
-
-    - item: Snowboarding
-      link:
-
+      
     - item: Cooking
       link:
 
@@ -64,8 +64,8 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
+  - degree: BSc in Computer Science
+    university: University Teknologi Petronas (UTP)
     time: 2011 - 2012
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -75,8 +75,8 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
+  - degree: Sijil Pelajaran Malaysia (SPM)
+    university: SMK Bukit Rahman Putra, Sg Buloh, Selangor
     time: 2007 - 2011
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
