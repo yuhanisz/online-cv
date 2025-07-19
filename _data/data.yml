@@ -90,17 +90,19 @@ experiences:
       - Act as a liaison between development team and stakeholder throughout the implementation
       - Analyzing. developing and proposing enhancements to current business processes, reports and application in order to optimize system effectiveness.
       - Continuously improved application system by analyzing user feedback and implementing design enhancement to ensure more intuitive and user-friendly interface.
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Professional Services Engineer / Business Analyst
+    time: Jan 2022 – Nov 2023
+    company: Juris Technologies Sdn Bhd
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+       - Subject matter expert on the banking processes, workflows and guide customers on using Juris solution. Prepare and execute customer education on the system.
+       - Facilitate discovery sessions to uncover customer’s requirement and prepare the documentation.
+       - Configure Juris software on non-programming level according to the customer’s environment.
+       - Facilitate and execute the User Acceptance Test and work with programmer to fix any defects.
+       - Analyze and understand system requirements, design specification and business values.
+       - Develop, design and document tests and test cases. Prepare and execute scripts to automate rules execution and automation.
+       - Design and execute automated tests to verify manual and automated results.
+       - Report defects and retest resolved bugs and defects.
+       - Report test coverage and document test results during.
   - role: UI Developer
     time: 2012 - 2014
     company: Amazon, London
