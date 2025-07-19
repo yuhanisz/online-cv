@@ -14,7 +14,7 @@ sidebar:
 
   # Sidebar links
   email: yuhanisz@yahoo.com
-  phone: 017-583 7282
+  phone: Preferred communication via email
   timezone: Asia/Kuala Lumpur # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Malaysian
   # website: https://example.com/ # Include the full website URL, including "http://" or "https://".
@@ -173,6 +173,7 @@ recommendations:
   list:
   - person: Prasad Balakrishnan
     role: Head, Project & Delivery, Group Finance, Petronas Sdn Bhd
+    recommendation: |
 
 skills:
   title: Skills &amp; Proficiency
